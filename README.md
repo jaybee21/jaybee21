@@ -9,5 +9,5 @@ I'm a computer science graduate who is passionate about writing code, solving pr
 - 👯 I’m looking for a job or freelance work to learn and expand my expertise. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jabule-simanga-56425a155/) [Gmail](mailto:hillarysimanga@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/jaybee21)
+⭐️ From [Jabule Simanga](https://github.com/jaybee21)
 Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
